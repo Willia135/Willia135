@@ -1,6 +1,7 @@
 ## Olá! Eu sou Gustavo William 
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Python
 - ✉️ Contate-me no email: gustavowillianoliveira@gmail.com
 
  <div>
