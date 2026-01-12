@@ -5,12 +5,14 @@
 - ✉️ Contate-me no email: gustavowillianoliveira@gmail.com
 
  <div>
-  <a href="https://github.com/Willia135">
-  <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=Willia135&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
+  <a href="https://github.com/Willia135"></a>
+  <img height= "180" src="https://github-readme-stats.vercel.app/api?username=Willia135&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
+  
    
    ##
    
-  <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willia135&layout=compact&langs_count_16&theme=dark"/>
+  <img height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willia135&layout=compact&langs_count_16&theme=dark"/>
+
 </div>
 
 ##
@@ -28,6 +30,6 @@
 ##
 
 <div>
-<a href = "https://www.linkedin.com/in/gustavo-oliveira-362671302" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+<a href = "https://www.linkedin.com/in/gustavo-oliveira-362671302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
 
 </div>
