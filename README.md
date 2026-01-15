@@ -4,16 +4,14 @@
 - 🌱 Estudando Python
 - ✉️ Contate-me no email: gustavowillianoliveira@gmail.com
 
- <div>
-  <a href="https://github.com/Willia135"></a>
-  <img height= "180" src="https://github-readme-stats.vercel.app/api?username=Willia135&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
+  ##
+ 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Willia135&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
    
    ##
    
-  <img height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willia135&layout=compact&langs_count_16&theme=dark"/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Willia135&layout=compact&langs_count=16&theme=dark)
 
-</div>
 
 ## Linguagens
 
